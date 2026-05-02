@@ -1,0 +1,12 @@
+# Machine Learning Foundations - Python Dependencies
+# Core ML/Data Science
+numpy>=1.24.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+
+# Thai language support (for Thai font in matplotlib)
+pythainlp>=4.0.0
+
+# Jupyter Notebook support
+jupyter>=1.0.0
+ipykernel>=6.0.0
